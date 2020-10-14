@@ -1,1 +1,3 @@
-# check-posts-wp-rest-api
+# Check Posts with WP REST API
+
+Paste the URI and can check posts visually
