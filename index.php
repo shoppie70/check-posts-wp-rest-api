@@ -20,7 +20,6 @@
 		<div class="h-screen flex items-center relative">
 
 			<div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
-				<!--Left Col-->
 				<div class="flex flex-col w-full justify-center items-start text-center md:text-left">
 					<style>
 						.wave{
